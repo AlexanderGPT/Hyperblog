@@ -51,3 +51,10 @@ font-size:20px
 background:#ffffff;    
 padding:1em
 }
+
+#footer
+{
+padding: .5em;
+text-align: center;
+background: #838282;
+}
