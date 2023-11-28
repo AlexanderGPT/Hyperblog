@@ -42,3 +42,10 @@ font-size:20px
 {
 padding:1em
 }
+
+#footer
+{
+padding: .5em;
+text-align: center;
+background: #838282;
+}
